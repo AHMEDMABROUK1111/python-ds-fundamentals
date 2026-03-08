@@ -10,7 +10,7 @@ A structured collection of Python notebooks documenting my journey from Python b
 |---|-------|----------|--------|
 | 01 | Variables, Data Types, `print()`, `type()` | `01_variables_and_data_types.ipynb` | ✅ Done |
 | 02 | Control Flow: `if/elif/else`, Comparison & Logical Operators | `02_control_flow.ipynb` | ✅ Done |
-| 03 | Loops: `for`, `while`, `range()`, `enumerate()`, `break/continue` | `03_loops.ipynb` | 🔜 Coming soon |
+| 03 | Loops: `for`, `while`, `range()`, `enumerate()`, `break/continue` | `03_loops.ipynb` | ✅ Done |
 | 04 | Functions: `def`, parameters, `return`, `*args`/`**kwargs` | `04_functions.ipynb` | 🔜 Coming soon |
 | 05 | String Methods & File I/O | `05_strings_and_file_io.ipynb` | 🔜 Coming soon |
 | 06 | Error Handling, List & Dict Comprehensions | `06_error_handling_and_comprehensions.ipynb` | 🔜 Coming soon |
@@ -35,7 +35,7 @@ A structured collection of Python notebooks documenting my journey from Python b
 - Chained comparisons, edge case ordering
 - 10 conditional scripts including FizzBuzz and a grade calculator
 
-### 03 — Loops *(coming soon)*
+### 03 — Loops 
 - `for` loops and `while` loops
 - `range()` and `enumerate()`
 - `break` and `continue`
